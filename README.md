@@ -1,3 +1,6 @@
+Please open up the zip file and explore through different areas of the project.
+Thanks!
+
 Group Members:
 
 Faraz Chahybakhsh 7219098
